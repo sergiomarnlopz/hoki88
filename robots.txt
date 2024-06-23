@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://hoki88.arxman.com/sitemap.xml
